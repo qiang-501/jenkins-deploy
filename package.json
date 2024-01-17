@@ -1,0 +1,33 @@
+{
+  "name": "jenk",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^3.3.0",
+    "@jyeontu/progress-bar": "^1.0.5",
+    "chalk": "^5.3.0",
+    "jenkins-api": "^0.3.1",
+    "octokit": "^3.1.2",
+    "readline-sync": "^1.4.10",
+    "single-line-log": "^1.1.2"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiang-501/jenkins-deploy.git"
+  },
+  "keywords": [
+    "a"
+  ],
+  "bugs": {
+    "url": "https://github.com/qiang-501/jenkins-deploy/issues"
+  },
+  "homepage": "https://github.com/qiang-501/jenkins-deploy#readme",
+  "description": ""
+}
